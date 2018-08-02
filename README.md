@@ -16,10 +16,18 @@ Move and resize windows with ease
 
 smcFanControl controls the fans of every Intel Mac to make it run cooler.
 
-** SourceTree ** - https://www.sourcetreeapp.com/
+**SourceTree** - https://www.sourcetreeapp.com/
 
 A free visual Git client for Mac (and windows)
 
-** Toggl ** - https://toggl.com/
+**Toggl** - https://toggl.com/
 
 An excellent tool to quantify and manage your own time (and your team time)
+
+**CopyClip** - https://itunes.apple.com/es/app/copyclip-clipboard-history-manager/id595191960?mt=12
+
+CopyClip is one of the simplest clipboard manager. Recommended
+
+**Bear** - https://itunes.apple.com/es/app/bear/id1091189122?mt=12
+
+A complete markdown editor to manage all your files, tasklists ...
